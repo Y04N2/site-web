@@ -1,7 +1,8 @@
-Apprentissage de GItHUB
+Site Vitrine
 ====================
 
-A Second Level Header
+
+Explication des techno
 ---------------------
 
 Now is the time for all good men to come to
@@ -11,7 +12,7 @@ regular paragraph.
 The quick brown fox jumped over the lazy
 dog's back.
 
-### Header 3
+### je sais pas encore
 
 > This is a blockquote.
 > 
